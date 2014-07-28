@@ -3,7 +3,7 @@
 @font-face {
     font-family:"BB_font";
     font-style:normal;
-    font-weight:normal;
+    font-weight:normal; 
     src:url("//images.webhotel.microsdc.us/boltburger.desktop/font/gotham_ultra_italic-webfont.eot#iefix") format("embedded-opentype"), url("//images.webhotel.microsdc.us/boltburger.desktop/font/gotham_ultra_italic-webfont.woff") format("woff"), url("//images.webhotel.microsdc.us/boltburger.desktop/font/gotham_ultra_italic-webfont.ttf") format("truetype"), url("//images.webhotel.microsdc.us/boltburger.desktop/font/gotham_ultra_italic-webfont.svg#gotham_ultraitalic") format("svg");
 }
 #menu-item-6466 .menu-list-item-config .config-group-container:last-child .config-group-title:after, #menu-item-6467 .menu-list-item-config .config-group-container:last-child .config-group-title:after, #menu-item-6468 .menu-list-item-config .config-group-container:last-child .config-group-title:after {
